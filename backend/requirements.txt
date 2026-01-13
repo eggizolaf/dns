@@ -10,3 +10,4 @@ requests
 dnspython
 email-validator
 python-multipart
+aiohttp
