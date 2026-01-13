@@ -1,14 +1,7 @@
 fastapi
 uvicorn
+python-dotenv
 motor
 pydantic
-pydantic-settings
-python-dotenv
-bcrypt
-PyJWT
-requests
-dnspython
-email-validator
-python-multipart
 aiohttp
 passlib[bcrypt]
